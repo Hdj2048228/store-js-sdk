@@ -12,7 +12,7 @@
     "author": "xsolla",
     "license": "ISC",
     "engines": {
-        "node": "10.x",
+        "node": ">10.x",
         "npm": ">=5"
     },
     "scripts": {
